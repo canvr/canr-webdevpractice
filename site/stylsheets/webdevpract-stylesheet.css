@@ -1,0 +1,38 @@
+
+#nav-header{
+	background-color: #000A7C;
+	border-radius: 0;
+	border: 0;
+}
+
+#img-logo{
+	background: no-repeat;
+	width: 150px;
+	height: 150px;
+	margin:  10px;
+}
+
+/* header elements*/
+h3{
+	font-family: sans-serif;
+	color: purple;
+	text-align: center;
+}
+
+h4{
+	font-family: sans-serif;
+	color: navy;
+}
+
+section{
+	font-family: sans-serif;
+	color: navy;
+}
+
+ul{
+	font-family: sans-serif;
+}
+
+ol{
+	font-family: sans-serif;
+}
